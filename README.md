@@ -12,8 +12,8 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 - [x] 02 - Introduction to HTML
 - [x] 03 - Intermediate HTML
 - [x] 04 - Multi-Page Websites
-- [ ] 05 - Introduction to CSS
-- [ ] 06 - CSS Properties
+- [x] 05 - Introduction to CSS
+- [x] 06 - CSS Properties
 - [ ] 07 - Intermediate CSS
 - [ ] 08 - Advance CSS
 - [ ] 09 - Flexbox
