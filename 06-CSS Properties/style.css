@@ -1,0 +1,34 @@
+/* Properties */
+
+/* Colors Properties */
+/* 
+background-color -> Change the background color of an element
+color -> Change the text color of an element
+
+You can use different types of colors representations
+Some colors are buil-in in the CSS, such as red, green, blue
+Hex color, hsl colors, rgb() function, hsl() function
+*/
+
+/* Font Properties */
+/* 
+1px -> 1/96th inch
+1pt -> 1/72nd inch
+1em -> 100% of parent
+1rem -> 100% of root
+
+em -> This example, h1 has an 20px font size, because body is the parent of h1
+<body style="font-size: 20px">
+    <h1 style="font-size: 1em">Text Here</h1>
+</body>
+
+rem -> Will have a font-size relative to the HTML element, the root
+font-size -> Change the font size of a text
+
+font-weight -> change the weight of an text element
+Normal, Lighter, Bolder, Bold, Light
+
+font-family -> Change the font of an element
+We have to give and second font-family that is a generic font
+font-family: Arial, sans-serif
+*/
