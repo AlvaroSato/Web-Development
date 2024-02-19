@@ -9,9 +9,9 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 ## Roadmap
 
 - [x] 01 - Front-End Web Development ✔️
-- [ ] 02 - Introduction to HTML
-- [ ] 03 - Intermediate HTML
-- [ ] 04 - Multi-Page Websites
+- [x] 02 - Introduction to HTML
+- [x] 03 - Intermediate HTML
+- [x] 04 - Multi-Page Websites
 - [ ] 05 - Introduction to CSS
 - [ ] 06 - CSS Properties
 - [ ] 07 - Intermediate CSS
