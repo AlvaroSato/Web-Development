@@ -29,6 +29,7 @@ font-weight -> change the weight of an text element
 Normal, Lighter, Bolder, Bold, Light
 
 font-family -> Change the font of an element
-We have to give and second font-family that is a generic font
+We have to give and second font-family that is a generic font like the sans-serif
+because not all systems will have the specific font
 font-family: Arial, sans-serif
 */
