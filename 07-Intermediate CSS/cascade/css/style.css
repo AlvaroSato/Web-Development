@@ -1,0 +1,24 @@
+.cascade{
+    color: green;
+}
+
+/* Targeting H1 and H2 for todo */
+.todo{
+    color: blueviolet;
+}
+
+.box > p{
+    color: firebrick;
+}
+
+.box li{
+    color: blue;
+}
+
+li.done{
+    color: seagreen;
+}
+
+ul p.done{
+    font-size: 1.5rem;
+}
